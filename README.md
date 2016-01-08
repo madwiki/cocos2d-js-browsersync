@@ -4,4 +4,4 @@ This project was created by cocos originally,but added the gulpfile.js and packa
 ##Usage
 NodeJS should be installed previously.
 Run `npm install` to install the dependencies for development.
-When all done,run `gulp serve` to start a serve,then it will watch every change on your JavaScript files and reload them individually and automatically.
+When all done,run `gulp serve` to start a server,then it will watch every change on your JavaScript files and reload them individually and automatically.
