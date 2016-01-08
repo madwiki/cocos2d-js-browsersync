@@ -1,0 +1,26 @@
+{
+  "name": "cocos2d-js-browsersync",
+  "version": "1.0.0",
+  "description": "Using browser-sync on cocos2d-js development",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "browser-sync": "~2.9.2",
+    "browser-sync-spa": "~1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madwiki/cocos2d-js-browsersync.git"
+  },
+  "keywords": [
+    "cocos2d-js",
+    "browser-sync"
+  ],
+  "author": "madwiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madwiki/cocos2d-js-browsersync/issues"
+  },
+  "homepage": "https://github.com/madwiki/cocos2d-js-browsersync#readme"
+}
